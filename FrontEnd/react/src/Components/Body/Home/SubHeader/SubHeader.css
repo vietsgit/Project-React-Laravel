@@ -1,0 +1,16 @@
+.subHeader{
+    margin-left: 5%;
+}
+
+.subHeader textarea{
+    width: 60%;
+    height: 35px;
+    margin: 0 auto;
+    border:solid 3px #ccc;
+    border-radius: 10px;
+    text-align: left;
+}
+.functionPost{
+    display: inline-flex;
+    margin-left: 10%;
+}
